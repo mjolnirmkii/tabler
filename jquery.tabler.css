@@ -1,0 +1,27 @@
+.tabler_readOnly input, .tabler_readOnly textarea {
+	border: none;
+}
+
+.tabler_readOnly .saveRow {
+	display: none;
+}
+
+.editRow {
+	display: none;
+}
+
+.tabler_readOnly .editRow {
+	display: inline;
+}
+
+.tabler_readOnly button {
+	display: none;
+}
+
+.tabler .addRow {
+	display: none;
+}
+
+.tabler tr.last .addRow {
+	display: inline;
+}
